@@ -72,7 +72,7 @@ import org.xmpp.packet.Message;
 import org.xmpp.packet.Packet;
 import org.xmpp.packet.Presence;
 
-import cn.newgrand.cluster.ClientSessionInfoBack;
+import com.xiupitter.cluster.ClientSessionInfoBack;
 
 /**
  * Manages the sessions associated with an account. The information
