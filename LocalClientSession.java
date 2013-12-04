@@ -52,7 +52,7 @@ import org.xmpp.packet.Packet;
 import org.xmpp.packet.Presence;
 import org.xmpp.packet.StreamError;
 
-import cn.newgrand.cluster.ClientSessionInfoBack;
+import com.xiupitter.cluster.ClientSessionInfoBack;
 
 /**
  * Represents a session between the server and a client.
