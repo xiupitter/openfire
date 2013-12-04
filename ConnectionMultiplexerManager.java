@@ -45,7 +45,7 @@ import org.jivesoftware.util.cache.CacheFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import cn.newgrand.cluster.ClientSessionInfoBack;
+import com.xiupitter.cluster.ClientSessionInfoBack;
 
 /**
  * A ConnectionMultiplexerManager is responsible for keeping track of the connected
